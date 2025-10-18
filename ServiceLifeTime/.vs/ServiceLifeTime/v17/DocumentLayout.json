@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|c:\\users\\password\\service_life_time\\servicelifetime\\servicelifetime\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|solutionrelative:servicelifetime\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|c:\\users\\password\\service_life_time\\servicelifetime\\servicelifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|solutionrelative:servicelifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|c:\\users\\password\\service_life_time\\servicelifetime\\servicelifetime\\services\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|solutionrelative:servicelifetime\\services\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|c:\\users\\password\\service_life_time\\servicelifetime\\servicelifetime\\services\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|solutionrelative:servicelifetime\\services\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|c:\\users\\password\\service_life_time\\servicelifetime\\servicelifetime\\services\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5DBF4-7BD1-436B-AE49-CF100FE172DB}|ServiceLifeTime\\ServiceLifeTime.csproj|solutionrelative:servicelifetime\\services\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceLifeTime\\Program.cs",
+              "ToolTip": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Program.cs",
+              "RelativeToolTip": "ServiceLifeTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:40:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ServiceLifeTime\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ServiceLifeTime\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:33:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransientService.cs",
+              "DocumentMoniker": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Services\\ITransientService.cs",
+              "RelativeDocumentMoniker": "ServiceLifeTime\\Services\\ITransientService.cs",
+              "ToolTip": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Services\\ITransientService.cs",
+              "RelativeToolTip": "ServiceLifeTime\\Services\\ITransientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:15:15.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISingletonService.cs",
+              "DocumentMoniker": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Services\\ISingletonService.cs",
+              "RelativeDocumentMoniker": "ServiceLifeTime\\Services\\ISingletonService.cs",
+              "ToolTip": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Services\\ISingletonService.cs",
+              "RelativeToolTip": "ServiceLifeTime\\Services\\ISingletonService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:14:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IScopedService.cs",
+              "DocumentMoniker": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Services\\IScopedService.cs",
+              "RelativeDocumentMoniker": "ServiceLifeTime\\Services\\IScopedService.cs",
+              "ToolTip": "C:\\Users\\password\\Service_Life_Time\\ServiceLifeTime\\ServiceLifeTime\\Services\\IScopedService.cs",
+              "RelativeToolTip": "ServiceLifeTime\\Services\\IScopedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:13:53.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
